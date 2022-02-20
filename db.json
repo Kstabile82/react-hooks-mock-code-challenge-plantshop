@@ -13,12 +13,6 @@
       "price": 25.98
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
-    },
-    {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
@@ -41,6 +35,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "karina Stabile",
+      "image": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "Dolly ",
+      "image": "",
+      "price": "-0.01",
+      "id": 11
+    },
+    {
+      "name": "Dolly ",
+      "image": "",
+      "price": "-0.01",
+      "id": 12
     }
   ]
 }
